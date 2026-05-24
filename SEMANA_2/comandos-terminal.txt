@@ -1,0 +1,8 @@
+Utilicé los siguientes comandos: 
+mkdir SEMANA_2
+cd SEMANA_2
+
+En mi caso utilizo sistema operativo de windows y no me funcionó el touch, utilicé:
+New-Item preguntas-semana2.txt
+New-Item comandos-terminal.txt
+New-Item reflexion-semana2.txt
