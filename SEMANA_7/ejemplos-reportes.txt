@@ -1,0 +1,19 @@
+Ejemplos desarrollados para la actividad:
+
+Ejemplo 1:
+[
+    {
+        "id": 1,
+        "tipo": "Ambiente",
+        "descripcion": "Acumulación de residuos en una zona comunitaria"
+    }
+]
+
+Ejemplo 2:
+[
+    {
+        "id": 2,
+        "tipo": "Salud pública",
+        "descripcion": "Disposicion de desechos en zonas de recreación (parques)"
+    }
+]

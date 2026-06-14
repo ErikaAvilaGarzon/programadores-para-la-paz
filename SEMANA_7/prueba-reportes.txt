@@ -1,0 +1,13 @@
+Se hizo una petición POST con la ruta http://localhost:3000/reportes 
+enviando un objeto JSON con los datos nombre y mensaje solicitados 
+en la actividad.
+
+Arrojando como resultado:
+
+[
+    {
+        "id": 1,
+        "tipo": "Ambiente",
+        "descripcion": "Acumulación de residuos en una zona comunitaria"
+    }
+]
