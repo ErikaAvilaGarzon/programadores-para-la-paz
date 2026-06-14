@@ -1,0 +1,7 @@
+Se ha generado el siguiente ejemplo de acuerdo a la actividad:
+
+{
+    "mensaje": "Incidencia registrada",
+    "tipo": "Alcantarillado sin tapa",
+    "descripcion": "En la carrera 36 del barrio Victoria hay una alcantarilla sin tapa."
+}

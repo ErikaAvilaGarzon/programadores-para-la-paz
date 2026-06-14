@@ -1,0 +1,8 @@
+Se hizo una petición POST con la ruta http://localhost:3000/registro 
+enviando un objeto JSON con los datos nombre y mensaje solicitados 
+en la actividad.
+
+El servidor respondió con un objeto JSON que confirma que los datos
+fueron recibidos correctamente. La respuesta arrojó como resultado el estado 
+"Datos recibidos" y mostró los mismos valores enviados para nombre y mensaje
+("Maria" y "Hola comunidad").

@@ -1,0 +1,7 @@
+¿Por qué es importante que las plataformas tecnológicas puedan recibir reportes o información 
+enviada por los ciudadanos de forma estructurada?
+
+Al recibir los reportes estructurados las plataformas pueden procesar la información al instante, 
+ubicarla automáticamente en un mapa y activar alertas sin perder tiempo descifrando textos largos. 
+Así transforman los mensajes de la comunidad en acciones inmediatas y coordinadas para resolver 
+los problemas del barrio rápidamente.
