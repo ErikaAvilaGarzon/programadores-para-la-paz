@@ -1,0 +1,5 @@
+Ejemplos de prácticas básicas de seguridad digital:
+
+1 Usar claves largas combinado letras, números y símbolos para que nadie pueda adivinarlas fácilmente.
+2 No abrir enlaces raros, si nos llega un mensaje sospechoso o de un desconocido, no hacer clic ni descargar nada.
+3 Realizar copias de seguridad periódicas para resguardar la información importante en la nube o en un disco externo para no perderla.

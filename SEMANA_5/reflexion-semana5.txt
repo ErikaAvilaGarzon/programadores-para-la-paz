@@ -1,0 +1,7 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, 
+reportes o alertas de manera organizada?
+
+Podemos usar las APIs como puentes para conectar redes sociales, apps y sistemas locales, 
+centralizando todos los reportes comunitarios en un solo mapa común y de esta forma lograr que tú y tus vecinos reciban alertas 
+automáticas en tiempo real directamente en sus celulares de manera organizada.
+

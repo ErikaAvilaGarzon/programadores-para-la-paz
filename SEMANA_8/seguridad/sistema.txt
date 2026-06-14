@@ -1,0 +1,12 @@
+Información que muestra cada comando:
+
+uname -a: Muestra información detallada del sistema operativo (nombre del sistema, versión y tipo de procesador).
+Nota: En mi computadora con sistema Windows da error porque es un comando de Linux.
+
+whoami: Muestra el nombre del usuario actual que inició sesión en el equipo 
+(en mi caso: desktop-ak15cke\57317).
+
+¿Por qué es útil conocer esta información al administrar un servidor?
+
+Es fundamental para saber qué sistema operativo y versión exacta tiene el servidor antes de instalar
+programas compatibles y para verificar qué usuario somos y qué permisos tenemos para hacer cambios o configuraciones.

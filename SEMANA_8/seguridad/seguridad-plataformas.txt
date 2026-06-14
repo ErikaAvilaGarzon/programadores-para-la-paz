@@ -1,0 +1,15 @@
+Prácticas de seguridad que deberían aplicarse en una plataforma digital comunitaria:
+
+1 No exponer datos personales, evita publicar números de teléfono, correos o direcciones de los miembros 
+de la comunidad en perfiles o chats públicos.
+
+2 Usar contraseñas largas y diferentes para cada cuenta y nunca compartirlas con otros usuarios o administradores.
+
+3 Usar conexiones seguras y conectarse siempre desde redes Wi-Fi de confianza 
+(evita las públicas).
+
+4 Activar la verificación en dos pasos para configurar un candado extra que nos solicite un código enviado 
+a nuestro celular antes de dejarnos entrar.
+
+5 Cerrar sesión al terminar, si se usa un computador compartido o público, asegurarse siempre de cerrar nuestra cuenta para
+que nadie más la use.
