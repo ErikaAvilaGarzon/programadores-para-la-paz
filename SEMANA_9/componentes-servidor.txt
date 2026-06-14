@@ -1,0 +1,27 @@
+1 Sistema operativo
+
+Es el programa principal que controla y administra toda la computadora. 
+Se encarga de gestionar el almacenamiento, la memoria y permite que otras aplicaciones 
+puedan funcionar.
+
+2 Node.js
+
+Es el entorno que permite ejecutar código de JavaScript directamente en la computadora 
+y no solo dentro de un navegador web, en este se puedes usar JavaScript para crear programas de fondo,
+herramientas y servidores.
+
+3 Aplicación server.js
+
+Es el archivo de texto donde se escribe las instrucciones específicas para el servidor,
+su función es recibir las peticiones que llegan de los usuarios y decidir qué responderles en cada ruta.
+
+4 Puerto 
+
+Es como una puerta o canal específico en la computadora (la número 3000 para mi caso) por donde entra y sale la información 
+del servidor y sirve para que el tráfico de internet sepa exactamente a qué aplicación debe dirigirse.
+
+5 Logs
+
+Son los mensajes de registro que el servidor va imprimiendo en la terminal para avisar lo que está pasando
+también sirven para que el administrador sepa si el servidor arrancó bien o si ocurrió algún problema o 
+error en el camino.
