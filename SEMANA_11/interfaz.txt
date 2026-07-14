@@ -1,0 +1,6 @@
+Interfaz
+
+La interfaz tendría un formulario para crear un nuevo reporte con un título, una descripción y una categoría. 
+También mostraría una lista con los reportes disponibles para que los usuarios puedan consultarlos. 
+Cada reporte tendría un botón para apoyar la iniciativa y un contador que indique la cantidad de apoyos recibidos. 
+La interfaz sería sencilla, fácil de usar y solo mostraría información pública, protegiendo los datos personales de los usuarios.
