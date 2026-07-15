@@ -1,0 +1,7 @@
+Evento: una petición recibe un nuevo apoyo.
+
+Mensaje: "La petición ha recibido un nuevo apoyo. 
+Revisa la plataforma para conocer los detalles."
+
+Información que no debe enviarse: documentos de identidad, 
+números de teléfono, direcciones, contraseñas ni cualquier otro dato personal o confidencial.

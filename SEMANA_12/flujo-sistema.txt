@@ -1,0 +1,7 @@
+Petición en 3 Clics
+
+1. El ciudadano inicia sesión en la plataforma.
+2. Crea una nueva petición ingresando el título y la descripción.
+3. La petición queda almacenada en la base de datos.
+4. Otros ciudadanos pueden visualizar la petición y brindar su apoyo.
+5. El sistema registra la cantidad de apoyos recibidos y genera un documento PDF con la petición.
